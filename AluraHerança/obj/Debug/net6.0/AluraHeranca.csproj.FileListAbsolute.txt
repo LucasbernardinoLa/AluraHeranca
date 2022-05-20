@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\bin\Debug\net6.0\AluraHeranca.exe
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\bin\Debug\net6.0\AluraHeranca.deps.json
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\bin\Debug\net6.0\AluraHeranca.runtimeconfig.json
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\bin\Debug\net6.0\AluraHeranca.dll
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\bin\Debug\net6.0\AluraHeranca.pdb
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.AssemblyInfo.cs
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.dll
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\refint\AluraHeranca.dll
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.pdb
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\AluraHeranca.genruntimeconfig.cache
+C:\Users\lucas\source\repos\AluraHerança\AluraHerança\obj\Debug\net6.0\ref\AluraHeranca.dll

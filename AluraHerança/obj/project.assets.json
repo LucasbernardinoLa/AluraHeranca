@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\AluraHerança\\AluraHerança\\AluraHerança.csproj",
-      "projectName": "AluraHerança",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\AluraHerança\\AluraHerança\\AluraHerança.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\AluraHerança\\AluraHerança\\AluraHeranca.csproj",
+      "projectName": "AluraHeranca",
+      "projectPath": "C:\\Users\\lucas\\source\\repos\\AluraHerança\\AluraHerança\\AluraHeranca.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lucas\\source\\repos\\AluraHerança\\AluraHerança\\obj\\",
       "projectStyle": "PackageReference",
