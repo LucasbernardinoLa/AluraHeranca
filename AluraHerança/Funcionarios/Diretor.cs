@@ -1,6 +1,8 @@
-﻿namespace AluraHeranca.Funcionarios
+﻿using AluraHeranca.Sistemas;
+
+namespace AluraHeranca.Funcionarios
 {
-    public class Diretor : Funcionario
+    public class Diretor : FuncionarioAutenticavel
     {
         public Diretor(string cpf) : base(5000, cpf)
         {
@@ -9,7 +11,7 @@
 
         public override double GetBonificacao()
         {
-            return Salario + base.GetBonificacao();
+            return Salario * 0.50;
         }
 
         public override void AumentarSalario()
