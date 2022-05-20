@@ -1,15 +1,20 @@
 ﻿namespace AluraHeranca.Funcionarios
 {
-    internal class Diretor
+    public class Diretor : Funcionario
     {
-        public string Nome { get; set; }
-        public string CPF { get; set; }
-        public double Salario { get; set; }
-
-
-        public double GetBonificacao()
+        public Diretor(string cpf) : base(5000, cpf)
         {
-            return Salario;
+            Console.WriteLine("construtor DIRETOR");
+        }
+
+        public override double GetBonificacao()
+        {
+            return Salario + base.GetBonificacao();
+        }
+
+        public override void AumentarSalario()
+        {
+            Salario *= 1.15;
         }
     }
 }

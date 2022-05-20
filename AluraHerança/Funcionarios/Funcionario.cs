@@ -1,15 +1,21 @@
 ﻿namespace AluraHeranca.Funcionarios
 {
-    internal class Funcionario
+    public abstract class Funcionario
     {
         public string Nome { get; set; }
-        public string CPF { get; set; }
-        public double Salario { get; set; }
+        public string CPF { get;  private set; }
+        public double Salario { get; protected set; }
+        public static int TotalDeFuncionarios { get; private set; }
 
-
-        public double GetBonificacao()
+        public Funcionario(double salario ,string cpf)
         {
-            return Salario * 0.10;
+            CPF = cpf;
+            Salario = salario;
+            TotalDeFuncionarios++;
+            Console.WriteLine("construtor FUNCIONARIO");
         }
+
+        public abstract double GetBonificacao();
+        public abstract void AumentarSalario();
     }
 }
